@@ -21,6 +21,10 @@ header {
 	height: auto;
 	border-radius: 10%;
 	border: 5px solid #D48166;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
 }
 
 main {
